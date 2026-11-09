@@ -1,0 +1,22 @@
+{
+  "origin": "Previously completed experiment, not a new run",
+  "results": [
+    {
+      "scheme": "caf_star",
+      "dataset": "fgvc_aircraft",
+      "seed": 1,
+      "lambda_margin": 2.0,
+      "lambda_text": 0.0,
+      "base_readout": "VT",
+      "base_correct": 768,
+      "base_count": 1666,
+      "new_correct": 761,
+      "new_count": 1667,
+      "base": 46.0984393757503,
+      "new": 45.65086982603479,
+      "hm": 45.87356293871234,
+      "alpha": 16.23606300354004,
+      "beta": 10.449174880981445
+    }
+  ]
+}

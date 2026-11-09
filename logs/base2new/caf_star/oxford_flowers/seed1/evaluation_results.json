@@ -1,0 +1,22 @@
+{
+  "origin": "Previously completed experiment, not a new run",
+  "results": [
+    {
+      "scheme": "caf_star",
+      "dataset": "oxford_flowers",
+      "seed": 1,
+      "lambda_margin": 4.0,
+      "lambda_text": 2.5,
+      "base_readout": "VT",
+      "base_correct": 1034,
+      "base_count": 1053,
+      "new_correct": 1091,
+      "new_count": 1410,
+      "base": 98.19563152896487,
+      "new": 77.37588652482269,
+      "hm": 86.5513282181771,
+      "alpha": 15.90323257446289,
+      "beta": 10.744956016540527
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "origin": "Previously completed experiment, not a new run",
+  "results": [
+    {
+      "scheme": "caf_star",
+      "dataset": "eurosat",
+      "seed": 3,
+      "lambda_margin": 1.0,
+      "lambda_text": 2.5,
+      "base_readout": "VT",
+      "base_correct": 4057,
+      "base_count": 4200,
+      "new_correct": 3262,
+      "new_count": 3900,
+      "base": 96.5952380952381,
+      "new": 83.64102564102564,
+      "hm": 89.65259952511119,
+      "alpha": 15.903936386108398,
+      "beta": 10.94316291809082
+    }
+  ]
+}

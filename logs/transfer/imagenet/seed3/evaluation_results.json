@@ -1,0 +1,140 @@
+{
+  "origin": "Previously completed experiment, not a new run",
+  "results": [
+    {
+      "dataset": "imagenet",
+      "seed": 3,
+      "correct": 36123,
+      "n": 50000,
+      "accuracy": 72.246,
+      "alpha": 15.53372573852539,
+      "beta": 10.22152042388916
+    },
+    {
+      "dataset": "caltech101",
+      "seed": 3,
+      "correct": 2323,
+      "n": 2465,
+      "accuracy": 94.2393509127789,
+      "alpha": 15.53372573852539,
+      "beta": 10.22152042388916
+    },
+    {
+      "dataset": "dtd",
+      "seed": 3,
+      "correct": 925,
+      "n": 1692,
+      "accuracy": 54.66903073286052,
+      "alpha": 15.53372573852539,
+      "beta": 10.22152042388916
+    },
+    {
+      "dataset": "eurosat",
+      "seed": 3,
+      "correct": 4677,
+      "n": 8100,
+      "accuracy": 57.74074074074074,
+      "alpha": 15.53372573852539,
+      "beta": 10.22152042388916
+    },
+    {
+      "dataset": "fgvc_aircraft",
+      "seed": 3,
+      "correct": 983,
+      "n": 3333,
+      "accuracy": 29.492949294929492,
+      "alpha": 15.53372573852539,
+      "beta": 10.22152042388916
+    },
+    {
+      "dataset": "food101",
+      "seed": 3,
+      "correct": 26454,
+      "n": 30300,
+      "accuracy": 87.3069306930693,
+      "alpha": 15.53372573852539,
+      "beta": 10.22152042388916
+    },
+    {
+      "dataset": "imagenet_a",
+      "seed": 3,
+      "correct": 3744,
+      "n": 7500,
+      "accuracy": 49.92,
+      "alpha": 15.53372573852539,
+      "beta": 10.22152042388916
+    },
+    {
+      "dataset": "imagenet_r",
+      "seed": 3,
+      "correct": 23368,
+      "n": 30000,
+      "accuracy": 77.89333333333333,
+      "alpha": 15.53372573852539,
+      "beta": 10.22152042388916
+    },
+    {
+      "dataset": "imagenet_sketch",
+      "seed": 3,
+      "correct": 26519,
+      "n": 50889,
+      "accuracy": 52.11145827192517,
+      "alpha": 15.53372573852539,
+      "beta": 10.22152042388916
+    },
+    {
+      "dataset": "imagenetv2",
+      "seed": 3,
+      "correct": 6580,
+      "n": 10000,
+      "accuracy": 65.8,
+      "alpha": 15.53372573852539,
+      "beta": 10.22152042388916
+    },
+    {
+      "dataset": "oxford_flowers",
+      "seed": 3,
+      "correct": 1775,
+      "n": 2463,
+      "accuracy": 72.06658546488023,
+      "alpha": 15.53372573852539,
+      "beta": 10.22152042388916
+    },
+    {
+      "dataset": "oxford_pets",
+      "seed": 3,
+      "correct": 3418,
+      "n": 3669,
+      "accuracy": 93.1588988825293,
+      "alpha": 15.53372573852539,
+      "beta": 10.22152042388916
+    },
+    {
+      "dataset": "stanford_cars",
+      "seed": 3,
+      "correct": 5499,
+      "n": 8041,
+      "accuracy": 68.38701654023131,
+      "alpha": 15.53372573852539,
+      "beta": 10.22152042388916
+    },
+    {
+      "dataset": "sun397",
+      "seed": 3,
+      "correct": 14065,
+      "n": 19850,
+      "accuracy": 70.85642317380352,
+      "alpha": 15.53372573852539,
+      "beta": 10.22152042388916
+    },
+    {
+      "dataset": "ucf101",
+      "seed": 3,
+      "correct": 2768,
+      "n": 3783,
+      "accuracy": 73.16944224160719,
+      "alpha": 15.53372573852539,
+      "beta": 10.22152042388916
+    }
+  ]
+}

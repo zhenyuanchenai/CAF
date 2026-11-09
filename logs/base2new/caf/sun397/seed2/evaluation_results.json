@@ -1,0 +1,22 @@
+{
+  "origin": "Previously completed experiment, not a new run",
+  "results": [
+    {
+      "scheme": "caf",
+      "dataset": "sun397",
+      "seed": 2,
+      "lambda_margin": 4.0,
+      "lambda_text": 2.5,
+      "base_readout": "VT",
+      "base_correct": 8291,
+      "base_count": 9950,
+      "new_correct": 8066,
+      "new_count": 9900,
+      "base": 83.32663316582915,
+      "new": 81.47474747474747,
+      "hm": 82.39028542986962,
+      "alpha": 15.157673835754395,
+      "beta": 9.682065963745117
+    }
+  ]
+}

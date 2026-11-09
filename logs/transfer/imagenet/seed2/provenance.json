@@ -1,0 +1,40 @@
+{
+  "description": "Original per-update and per-epoch training records, copied byte-for-byte. Evaluation values are exported from the completed experiment; they are not a new run of this release.",
+  "source_checkpoint_sha256": "f4dd64c3025f090d282d4f4841474ea5c3c4472a1271a1c79358c1a802dc91bd",
+  "released_checkpoint_sha256": "084b02acdda3813467d08eade7d95d16fd7078269f2d246cfbcc998bc77a52d7",
+  "epoch": 5,
+  "seed": 2,
+  "lambda_margin": 1,
+  "lambda_text": 40,
+  "native_logs": [
+    {
+      "file": "metrics_epoch1.jsonl",
+      "sha256": "d23673f066e0d0eec0c79ec93e4484c8fa46182136b88220c04cf405d7467b9e",
+      "records": 500
+    },
+    {
+      "file": "metrics_epoch2.jsonl",
+      "sha256": "b9318f72aed2a50f8abaeb6aac3f0c60b18efb295f79e63f683c544e14fb80a1",
+      "records": 500
+    },
+    {
+      "file": "metrics_epoch3.jsonl",
+      "sha256": "0e27dfa86c4e374f6e4733d139b327986ed8ef129c099ec42f1800c4d9f18d59",
+      "records": 500
+    },
+    {
+      "file": "metrics_epoch4.jsonl",
+      "sha256": "5b453d7a0c17f4d1570e08f8a93f6239c76da9dffb4ffdcfe72965384687e38f",
+      "records": 500
+    },
+    {
+      "file": "metrics_epoch5.jsonl",
+      "sha256": "9031763640cd70d19a3530d4bb8827ff49f92ec12ba675d4f8ff439aa2bf15f8",
+      "records": 500
+    },
+    {
+      "file": "history.json",
+      "sha256": "78e16b724fdc8aaf0b268a86077e6501671cdaa0b1e5f5306e1078a23661e392"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "origin": "Previously completed experiment, not a new run",
+  "results": [
+    {
+      "scheme": "caf_star",
+      "dataset": "food101",
+      "seed": 1,
+      "lambda_margin": 4.0,
+      "lambda_text": 40.0,
+      "base_readout": "VT",
+      "base_correct": 13933,
+      "base_count": 15300,
+      "new_correct": 13880,
+      "new_count": 15000,
+      "base": 91.06535947712419,
+      "new": 92.53333333333333,
+      "hm": 91.79347777073706,
+      "alpha": 15.147822380065918,
+      "beta": 11.515828132629395
+    }
+  ]
+}

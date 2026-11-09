@@ -1,0 +1,115 @@
+{
+  "description": "Original per-update and per-epoch training records, copied byte-for-byte. Evaluation values are exported from the completed experiment; they are not a new run of this release.",
+  "source_checkpoint_sha256": "b699a240fb297b3a4d16e9605ec5767688e79cde902bbdb8b9e6d93be7736cee",
+  "released_checkpoint_sha256": "02bbfe0d17d8b05239c35aa7a6da7e6647f13064351e3885688939f074a1a721",
+  "epoch": 20,
+  "seed": 3,
+  "lambda_margin": 2,
+  "lambda_text": 0,
+  "native_logs": [
+    {
+      "file": "metrics_epoch1.jsonl",
+      "sha256": "d5860acd5715e7f24108f3a10de25a85009ea1892978a449ef20b4c6204999b4",
+      "records": 200
+    },
+    {
+      "file": "metrics_epoch10.jsonl",
+      "sha256": "d6c0db554156d7b877d64cb0516637a03e1baea1eaf8e415dd466f81415fde6a",
+      "records": 200
+    },
+    {
+      "file": "metrics_epoch11.jsonl",
+      "sha256": "daf6d2c36fbed91d6ab61d19118759597ddf15709a0de4ae06dac96ce546fa2e",
+      "records": 200
+    },
+    {
+      "file": "metrics_epoch12.jsonl",
+      "sha256": "bcfb36036bff3601caae37b79f93aead13a9ee065ef6602dd89a3b2a3583e825",
+      "records": 200
+    },
+    {
+      "file": "metrics_epoch13.jsonl",
+      "sha256": "75a4ec37b068c7b0db05cc65e5bd2f515485fdadc0ec6d2f71c8d5dc2748def4",
+      "records": 200
+    },
+    {
+      "file": "metrics_epoch14.jsonl",
+      "sha256": "118b682f37e2831ccc2f122a52f61640888930c39f8cba7563afb16d2081c7cf",
+      "records": 200
+    },
+    {
+      "file": "metrics_epoch15.jsonl",
+      "sha256": "9ddc9c6dd065d76644453a14148d3b06a9d2d6b62a6839e3b5bc6742a79a0d86",
+      "records": 200
+    },
+    {
+      "file": "metrics_epoch16.jsonl",
+      "sha256": "666e15821a6eace26fe887271c70faad536e589ba6645e838a498930dc3c5cd5",
+      "records": 200
+    },
+    {
+      "file": "metrics_epoch17.jsonl",
+      "sha256": "1cb71fe32f8738f867ad34b778df8685b1be82bec229ca75cefdcfc3fbe5a58b",
+      "records": 200
+    },
+    {
+      "file": "metrics_epoch18.jsonl",
+      "sha256": "ef211d4e73b6286ff157a129d14faa70499ad40d86b4cd83697707a52a5251b6",
+      "records": 200
+    },
+    {
+      "file": "metrics_epoch19.jsonl",
+      "sha256": "6df5e68be885583ced1ccb66aeec0f88c82db98ee835ab32db9d07108240cd51",
+      "records": 200
+    },
+    {
+      "file": "metrics_epoch2.jsonl",
+      "sha256": "7ea8b6254e221ce2283413d4235b3e63a41e58fe38bf4e54b7675df065869b07",
+      "records": 200
+    },
+    {
+      "file": "metrics_epoch20.jsonl",
+      "sha256": "cda124aa303f396648dacae2607df0716ca122399cae973bb01e7450e80bd59c",
+      "records": 200
+    },
+    {
+      "file": "metrics_epoch3.jsonl",
+      "sha256": "977712434308b905728592935aa8a667b881f39ca48e247361135538992105a4",
+      "records": 200
+    },
+    {
+      "file": "metrics_epoch4.jsonl",
+      "sha256": "d9667cda92682df89b956aa3dd461ae4de9f9708e9804348556d2f17942fbc17",
+      "records": 200
+    },
+    {
+      "file": "metrics_epoch5.jsonl",
+      "sha256": "167e783fa5b6f41c810518fabceb7acdb1606ef424118dda799e1e93c30e4456",
+      "records": 200
+    },
+    {
+      "file": "metrics_epoch6.jsonl",
+      "sha256": "ff1c12faf7588eeaa99a1d5dc6ef759cae5ed9e3e8875059dd84fd3237b539f1",
+      "records": 200
+    },
+    {
+      "file": "metrics_epoch7.jsonl",
+      "sha256": "f4713fa25ef967c702e6ea9c74b9566d9cad6321b93558fbc6332a738026774d",
+      "records": 200
+    },
+    {
+      "file": "metrics_epoch8.jsonl",
+      "sha256": "6426b71000d5850eb5f571a1c515d35592481b435bbbd64f670138782c74a9a6",
+      "records": 200
+    },
+    {
+      "file": "metrics_epoch9.jsonl",
+      "sha256": "e42f2c9c32fc96d91fd67f2486e851fa1d949f64f660e83e14a8eca25dc1e814",
+      "records": 200
+    },
+    {
+      "file": "training_history.json",
+      "sha256": "47197ebacf54709d9ed71d883c103fd16ea36f8eb2513e5931cf7b72aedd5016"
+    }
+  ]
+}

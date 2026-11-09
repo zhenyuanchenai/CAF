@@ -1,0 +1,10 @@
+*.py text eol=lf
+*.sh text eol=lf
+*.yaml text eol=lf
+*.md text eol=lf
+*.json text eol=lf
+*.csv text eol=lf
+*.svg text eol=lf
+*.gz binary
+logs/**/*.json -text
+logs/**/*.jsonl -text

@@ -1,0 +1,22 @@
+{
+  "origin": "Previously completed experiment, not a new run",
+  "results": [
+    {
+      "scheme": "caf_star",
+      "dataset": "ucf101",
+      "seed": 2,
+      "lambda_margin": 0.0,
+      "lambda_text": 2.5,
+      "base_readout": "VT",
+      "base_correct": 1716,
+      "base_count": 1934,
+      "new_correct": 1511,
+      "new_count": 1849,
+      "base": 88.72802481902792,
+      "new": 81.71984856679286,
+      "hm": 85.07986175255834,
+      "alpha": 15.695760726928711,
+      "beta": 10.738092422485352
+    }
+  ]
+}

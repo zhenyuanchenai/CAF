@@ -1,0 +1,22 @@
+{
+  "origin": "Previously completed experiment, not a new run",
+  "results": [
+    {
+      "scheme": "caf",
+      "dataset": "caltech101",
+      "seed": 2,
+      "lambda_margin": 4.0,
+      "lambda_text": 2.5,
+      "base_readout": "VT",
+      "base_correct": 1529,
+      "base_count": 1549,
+      "new_correct": 877,
+      "new_count": 916,
+      "base": 98.7088444157521,
+      "new": 95.74235807860262,
+      "hm": 97.20297335628335,
+      "alpha": 15.589173316955566,
+      "beta": 10.936746597290039
+    }
+  ]
+}

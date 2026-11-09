@@ -1,0 +1,22 @@
+{
+  "origin": "Previously completed experiment, not a new run",
+  "results": [
+    {
+      "scheme": "caf",
+      "dataset": "stanford_cars",
+      "seed": 1,
+      "lambda_margin": 4.0,
+      "lambda_text": 2.5,
+      "base_readout": "VT",
+      "base_correct": 3344,
+      "base_count": 4002,
+      "new_correct": 3103,
+      "new_count": 4039,
+      "base": 83.55822088955522,
+      "new": 76.82594701658826,
+      "hm": 80.05078724002223,
+      "alpha": 15.977255821228027,
+      "beta": 10.53022575378418
+    }
+  ]
+}

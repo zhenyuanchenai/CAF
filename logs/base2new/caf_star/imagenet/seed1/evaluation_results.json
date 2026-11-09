@@ -1,0 +1,22 @@
+{
+  "origin": "Previously completed experiment, not a new run",
+  "results": [
+    {
+      "scheme": "caf_star",
+      "dataset": "imagenet",
+      "seed": 1,
+      "lambda_margin": 1.0,
+      "lambda_text": 2.5,
+      "base_readout": "fusion",
+      "base_correct": 19658,
+      "base_count": 25000,
+      "new_correct": 18309,
+      "new_count": 25000,
+      "base": 78.632,
+      "new": 73.236,
+      "hm": 75.83813775120501,
+      "alpha": 14.219186782836914,
+      "beta": 10.354093551635742
+    }
+  ]
+}

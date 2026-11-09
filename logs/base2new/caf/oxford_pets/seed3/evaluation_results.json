@@ -1,0 +1,22 @@
+{
+  "origin": "Previously completed experiment, not a new run",
+  "results": [
+    {
+      "scheme": "caf",
+      "dataset": "oxford_pets",
+      "seed": 3,
+      "lambda_margin": 4.0,
+      "lambda_text": 2.5,
+      "base_readout": "VT",
+      "base_correct": 1802,
+      "base_count": 1881,
+      "new_correct": 1755,
+      "new_count": 1788,
+      "base": 95.80010632642211,
+      "new": 98.15436241610739,
+      "hm": 96.96294616802881,
+      "alpha": 15.709982872009277,
+      "beta": 11.0997314453125
+    }
+  ]
+}
