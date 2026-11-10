@@ -259,7 +259,7 @@ If you find this work useful, please cite our paper:
 ```bibtex
 @misc{chen2026trustadaptationcontextualfusion,
   title={When to Trust Adaptation: Contextual Fusion for Transferable Vision-Language Prompting},
-  author={Zhenyuan Chen and Wenshuo Tao and Zhuo Huang and Shuo Chen and Mingming Cheng and Xiang Li},
+  author={Zhenyuan Chen and Wenshuo Tao and Zhuo Huang and Shuo Chen and Ming-Ming Cheng and Xiang Li},
   year={2026},
   eprint={2611.11824},
   archivePrefix={arXiv},
