@@ -6,11 +6,13 @@
 </p>
 
 <p align="center">
+  <a href="https://arxiv.org/abs/2611.11824">Paper (arXiv)</a> &nbsp;·&nbsp;
   <a href="#installation">Installation</a> &nbsp;·&nbsp;
   <a href="#model-zoo">Models &amp; Assets</a> &nbsp;·&nbsp;
   <a href="#imagenet-to-target-transfer">Transfer</a> &nbsp;·&nbsp;
   <a href="#base-to-new-generalization">Base-to-New</a> &nbsp;·&nbsp;
-  <a href="#training-logs">Training Logs</a>
+  <a href="#training-logs">Training Logs</a> &nbsp;·&nbsp;
+  <a href="#citation">Citation</a>
 </p>
 
 <p align="center">
@@ -249,3 +251,19 @@ This implementation builds on [PromptSRC](https://github.com/muzairkhattak/Promp
 
 The code is distributed under the [MIT license](LICENSE).
 Third-party notices are retained in [licenses/](licenses/).
+
+## Citation
+
+If you find this work useful, please cite our paper:
+
+```bibtex
+@misc{chen2026trustadaptationcontextualfusion,
+  title={When to Trust Adaptation: Contextual Fusion for Transferable Vision-Language Prompting},
+  author={Zhenyuan Chen and Wenshuo Tao and Zhuo Huang and Shuo Chen and Mingming Cheng and Xiang Li},
+  year={2026},
+  eprint={2611.11824},
+  archivePrefix={arXiv},
+  primaryClass={cs.CV},
+  url={https://arxiv.org/abs/2611.11824}
+}
+```
