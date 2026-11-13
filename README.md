@@ -257,7 +257,7 @@ Third-party notices are retained in [licenses/](licenses/).
 If you find this work useful, please cite our paper:
 
 ```bibtex
-@misc{chen2026trustadaptationcontextualfusion,
+@misc{chen2026trustadaptation,
   title={When to Trust Adaptation: Contextual Fusion for Transferable Vision-Language Prompting},
   author={Zhenyuan Chen and Wenshuo Tao and Zhuo Huang and Shuo Chen and Ming-Ming Cheng and Xiang Li},
   year={2026},
